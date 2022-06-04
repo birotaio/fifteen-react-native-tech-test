@@ -37,8 +37,8 @@ And besides adding anything that seems relevant to you, you can also pick some o
 ## BLE SDKs
 
 You will find the SDKs that simulate the BLE communication with a bike in the following repositories:
-- iOS: https://github.com/birotaio/fifteen-ios-sdk-ble-tech-test
-- Android: https://github.com/birotaio/fifteen-android-sdk-ble-tech-test
+- iOS: [fifteen-ios-sdk-ble-tech-test](https://github.com/birotaio/fifteen-ios-sdk-ble-tech-test)
+- Android: [fifteen-android-sdk-ble-tech-test](https://github.com/birotaio/fifteen-android-sdk-ble-tech-test)
 
 ## Mapbox
 
